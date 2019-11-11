@@ -12,7 +12,7 @@ Some documentation I found to build my stuff.
 # Testing
 Enter the folder `core` and run `npm run start` to use it as a simple app that is
 not build for production.
-If you  `npm run start:prod` it will be the same but it will simulate a built and
+If you `npm run start:prod` it will be the same but it will simulate a built and
 minified app ready for production.
 
 If you want to test as it should be compiled, instead of `http://localhost:4200/` use  `http://localhost:4200/?how-it-should-be`
